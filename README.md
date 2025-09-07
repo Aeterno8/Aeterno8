@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aeterno8" alt="aeterno8" /></a> </p>
 
-- 🔭 I’m currently working on [webnovel](https://github.com/Aeterno8/webnovel)
-
 - 🌱 I’m currently learning **spring boot, golang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aeterno8?tab=repositories](https://github.com/Aeterno8?tab=repositories)
